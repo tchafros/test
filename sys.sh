@@ -2,31 +2,31 @@
 
 echo "************************************"
 
-echo "Bienvenu sur mon projet sys "
+echo "Bienvenue sur mon projet sys "
 
 echo "************************************"
 
 
-echo "Choisir l'option à executer ........"
+echo "Choisir l'option à exécuter ........"
 
 echo "  
- 1_L'information sur les utilisateurs enregistrés il y a trois jours "
+ 1 - L\'information sur les utilisateurs enregistrés il y a trois jours "
 
 echo "  
- 2_Acquisition, Installation, et Lancement de l'environnement XAMPP"
+ 2 - Acquisition, Installation, et Lancement de l\'environnement XAMPP"
 
 echo "  
- 3_Archivages des éléments du repertoire personnel qui ont été modifié par l'utilisateur SUDOER il y a deux jours dans un péripherique exterme "
+ 3 - Archivages des éléments du repertoire personnel qui ont été modifié par l\'utilisateur SUDOER il y a deux jours dans un péripherique exterme "
 
 echo "   
 
-4_Information sur l'utilisateur du disque, de la mémoire, du processeur, et de la swap"
+4 - Information sur l\'utilisateur du disque, de la mémoire, du processeur, et de la swap"
 
 echo "  
- 5_quitter ( q ou Q)"
+ 5 - quitter ( q ou Q)"
 
 
-
+#### ??????  Ca c'est n'importe quoi!
 //installer d'abord les librerie
 sudo apt-get install ia32-libs
 //installation
